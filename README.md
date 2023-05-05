@@ -1,8 +1,8 @@
 ## Hi there, I'm Tomás Griffa 👋
 
-<div><br>
-    <img height="200" width="47%" src="https://github-readme-stats.vercel.app/api?username=tgriffabenitez&show_icons=true&theme=gruvbox&count_private=true"/>
-    <img height="200" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox"/>
+<div align="left">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=tgriffabenitez&show_icons=true&theme=gruvbox&count_private=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block"><br>
