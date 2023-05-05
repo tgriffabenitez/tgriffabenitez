@@ -2,7 +2,7 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api?username=tgriffabenitez&show_icons=true&theme=gruvbox&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox"/>
+    <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox&langs_count=6"/>
 </div>
 
 <div style="display: inline_block"><br>
