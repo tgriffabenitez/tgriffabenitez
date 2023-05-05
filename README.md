@@ -1,23 +1,23 @@
-## Hi there, I'm Tomás Griffa 👋
-
+# Hi there, I'm Tomás Griffa 👋
 <div>
     <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api?username=tgriffabenitez&show_icons=true&theme=gruvbox&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox&langs_count=6"/>
 </div>
 
-<div style="display: inline_block"><br>
+## Languages and Tools
+<div style="display: inline_block">
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
 </div>
 
-<div style="display: inline_block">
-    <h3>Get in touch with me!</h3>
-</div>
-
+## Get in touch with me!
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/tgriffabenitez" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
