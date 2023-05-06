@@ -1,7 +1,7 @@
 # Hi there, I'm Tomás Griffa 👋
 <div>
-    <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api?username=tgriffabenitez&show_icons=true&theme=gruvbox&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox&langs_count=6"/>
+    <img height="200" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api?username=tgriffabenitez&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="200" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=dracula&langs_count=6"/>
 </div>
 
 ## Languages and Tools:
