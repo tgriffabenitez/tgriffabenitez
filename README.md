@@ -4,7 +4,7 @@
     <img height="180em" src="https://github-readme-stats-tgriffabenitez-gmailcom.vercel.app/api/top-langs?username=tgriffabenitez&layout=compact&theme=gruvbox&langs_count=6"/>
 </div>
 
-## Languages and Tools
+## Languages and Tools:
 <div style="display: inline_block">
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
@@ -16,6 +16,11 @@
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+</div>
+
+## Snake!
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/tgriffabenitez/tgriffabenitez/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 ## Get in touch with me!
