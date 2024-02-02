@@ -20,7 +20,7 @@
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/reactjs-original.svg"/>
+    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/react-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
 </div>
