@@ -26,13 +26,6 @@
 </div>
 
 <h2>
-    Snake!
-</h2>
-<div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/tgriffabenitez/tgriffabenitez/blob/output/github-contribution-grid-snake.svg">
-</div>
-
-<h2>
     Get in touch with me:
 </h2>
 <div style="display: inline_block">
