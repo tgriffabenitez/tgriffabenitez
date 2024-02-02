@@ -12,15 +12,15 @@
     Languages and Tools:
 </h2>
 <div style="display: inline_block">
+    <img height="40" width="50" alt="react logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img height="40" width="50" alt="typescript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
+    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-    <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
     <img height="40" width="50" alt="java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
 </div>
